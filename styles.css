@@ -1,0 +1,74 @@
+body {
+background-image:url(http://photoag.fr/wp-content/uploads/2016/12/fond-site.jpg);
+margin:0;
+}
+
+h1{font-size:80;}
+#monId
+{
+  color:#8A0808;
+  font-size:80;
+}
+
+#DivVisible
+{
+	border:5px;
+}
+#image
+{
+	height:10;
+}
+h2 {
+	font-size:28px;
+	color : #ab2936;
+	text-transform : uppercase;
+	border-bottom : 3px solid #3c423a;
+}
+#Nom
+{
+	color:#8A0808;
+}
+
+
+#presentationphoto{
+	height : 250px;
+}
+.presentation{
+	float : left;
+}
+.photo{
+	float : right;
+}
+
+.page{
+		width : 780px;
+		margin : auto;
+		font-size : 16px;
+		font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+		padding : 40px;
+		border : 5px solid #ab2936;
+		border-radius : 10px;
+		box-shadow : 2px 4px 3px black;
+	background-image:url(https://i1.wp.com/metal-bell.com/wp-content/uploads/OldPaperTextureBackground.jpg?fit=2000%2C1333&ssl=1);
+}
+
+.titre{
+	font-weight:bold;
+	margin-bottom : 70px;
+	text-align : justify;
+}
+
+.date{
+	float : left;
+	font-weight : bold;
+	font-size : 20px;
+}
+
+.element{
+	margin-left : 150px;
+	margin-top : 15px;
+}
+
+.gauche p{
+	margin-bottom : 37px;
+}
